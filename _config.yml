@@ -1,3 +1,5 @@
+baseurl: /GitHubPagesTest
+
 collections:
   authors:
     output: true
